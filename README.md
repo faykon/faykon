@@ -3,7 +3,7 @@
 <head>
 <style>
 body {
-  background-color: #F1F1F1; /* Replace with your desired color */
+  background-color: #D3D3D3; /* Replace with your desired color */
 }
 </style>
 </head>
