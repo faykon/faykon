@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-  background-color: #D3D3D3; /* Replace with your desired color */
-}
-</style>
-</head>
-<body>
+
 # Welcome to My IT Portfolio!
 <img align="center" src="https://cutewallpaper.org/25/anime-girl-at-night-wallpaper/late-night-artist-original-1920x1080-anime-wallpaper-anime-computer-wallpaper-anime-backgrounds-wallpapers.png">
 
@@ -60,5 +51,3 @@ Hi 👋, I'm Triantafyllia Konstantinidi. Currently, I am pursuing a Bachelor of
 
 - English (Lower)
 - Greek (Native)
-- </body>
-</html>
