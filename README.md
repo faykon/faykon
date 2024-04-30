@@ -10,29 +10,7 @@ I am a passionate Junior Software Developer with an interest in engineering digi
 
 ## Projects 👨‍💻
 
-### Movie Showcase Website⚡
 
-- Description: Created a website using HTML, CSS, and JavaScript to showcase upcoming movies and allow viewers to watch their trailers.
-- Technologies used: HTML, CSS, JavaScript
-- GitHub Repository: https://github.com/faykon/movie
-
-### Restaurant Visual Identity Project
-
-- Description: Designed the visual identity of a known restaurant as a project.
-- Tools used: Adobe Photoshop
-- GitHub Repository: https://github.com/faykon/Restaurant-website
-
-### Hip-hop Artist Website⚡
-
-- Description: Developed a website for a hip-hop artist, providing basic information about him.
-- Technologies used: HTML, CSS
-- GitHub Repository: https://github.com/faykon/Website-singer
-
-### UI Design with Adobe Photoshop ⚡
-
-- Description: Designed a user interface (UI) image using Adobe Photoshop, showcasing creativity and attention to visual aesthetics.
-- Tools used: Adobe Photoshop
-- GitHub Repository: https://github.com/faykon/UI-photoshop-journey
 
 ## Skills ⚡
 Soft Skills:
