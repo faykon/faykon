@@ -4,9 +4,13 @@
 
 ## About Me
 
-Hi 👋, I'm Triantafyllia Konstantinidi. Junior Software Developer & Gaming Enthusiast
+Hi, I'm Triantafyllia! 👋
 
-I am a passionate Junior Software Developer with an interest in engineering digital intangible experiences and providing algorithmic solutions to complex coding problems. My journey began with the curiosity for technology, leading me to dive into scripting and programming languages like Python 3.*, C#, pure JavaScript, HTML5, CSS3.0, and many more. Each line of code is an opportunity to create something remarkable and exquisite, whether it is a fancy website, a robust application, or a captivating game.
+💻 Software Developer | Data Analyst | SQL & PL/SQL Enthusiast
+
+I'm a Software Developer with a background in full-stack development, database management, and data analytics.
+
+I have professional experience working with SQL, PL/SQL, MySQL, PHP, JavaScript, and web development technologies. I enjoy building practical software solutions, working with databases, analyzing data, and solving technical challenges.
 
 ## Projects 👨‍💻
 🌐 Frontend Websites Showcases
@@ -33,14 +37,11 @@ Designed visually appealing user interface (UI) initial screen mockup using Adob
 
 
 ## Skills ⚡
-Soft Skills:
--Programming Skills: Python,C#,C++,PHP,HTML5,CCS3,Javascript.
--Tools and Software: Unity,Bluej,Blender,WordPress,VS Code,Adobe Photoshop,Adobe Premiere,Microsoft Suite.
-Hard Skills:
--Strong problem-solving and analytical skills.
--Attention to detail and ability to work independently in a team.
--Effective time management and organizational skills.
--Good written and verbal communication skills.
+Programming: Python, C#, C++, PHP, JavaScript, SQL
+Databases: MySQL, MongoDB, SQL & PL/SQL
+Web Development: HTML5, CSS3, JavaScript, OpenCart, WordPress
+Tools: Git, GitHub, Visual Studio Code, HeidiSQL, phpMyAdmin
+Other: Data Analysis, Database Management, Excel Automation
 
 ## Contact Me 📄
 -📫 Email:fayoula@hotmail.com
@@ -50,5 +51,7 @@ Hard Skills:
 
 ## Languages
 
-- English (B2)
-- Greek (Native)
+- English
+- Spanish
+- Greek
+
