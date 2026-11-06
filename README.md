@@ -13,6 +13,23 @@ I'm a Software Developer with a background in full-stack development, database m
 I have professional experience working with SQL, PL/SQL, MySQL, PHP, JavaScript, and web development technologies. I enjoy building practical software solutions, working with databases, analyzing data, and solving technical challenges.
 
 ## Projects 👨‍💻
+
+📚 Library Management System (SQL & SQLite)
+
+Designed and developed a relational database for a Library Management System using SQL and SQLite.
+
+Created three interconnected tables: Books, Members, and Loans.
+
+Implemented database relationships using Primary Keys and Foreign Keys.
+
+Added sample data, including book titles such as Harry Potter, The Hobbit, 1984, Pride and Prejudice, and The Little Prince.
+
+Managed library members and book borrowing records.
+
+Used SQL queries, including SELECT, INSERT, and JOIN, to retrieve and manage related information.
+
+Applied database constraints such as NOT NULL, UNIQUE, and CHECK to maintain data integrity.
+
 🌐 Frontend Websites Showcases
 
 Created a movie showcase website using HTML5, CSS 3, and vanilla JavaScript.
